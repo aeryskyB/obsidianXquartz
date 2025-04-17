@@ -1,3 +1,10 @@
+# obsidianXquartz
+
+This is a fork of [Quartz project](https://github.com/jackyzha0/quartz).  
+I will use this for my obsidian companion.
+
+---
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
