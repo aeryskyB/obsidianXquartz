@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "https://aeryskyb.github.io/obsidianXquartz",
+    baseUrl: "https://obsidian-x-quartz.vercel.app/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",//"modified",
     theme: {
